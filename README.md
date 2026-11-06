@@ -33,7 +33,7 @@ The selected color stop gets the color of that variable.
 
 ## Installation
 
-1. Download the latest release as a ZIP file.
+1. Download NoviFix at [novissium.com/resources/novifix](https://www.novissium.com/resources/novifix/).
 2. In WordPress, go to **Plugins → Add New Plugin → Upload Plugin**.
 3. Upload the ZIP file and activate **NoviFix**.
 
@@ -43,4 +43,4 @@ GPL-2.0-or-later. See [LICENSE](LICENSE).
 
 NoviFix is not affiliated with or endorsed by Elementor.
 
-Made by [Novissium](https://www.novissium.com/).
+Made by [Novissium](https://www.novissium.com/resources/novifix/).
